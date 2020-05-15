@@ -1,0 +1,10 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "Epsilon",
+	"model": "Epsilon.moc",
+	"textures": [
+		"Epsilon.1024/texture_00.png",
+		"Epsilon.1024/texture_01.png",
+		"Epsilon.1024/texture_02.png"
+	]
+}
